@@ -2,8 +2,7 @@ apiVersion: v1
 name: techtrends
 description: Install TechTrends deployment manifests
 keywords:
-  - techtrends
+- techtrends
 version: 1.0.0
 maintainers:
-  - name: dmartensk
-    
+- name: dmartensk
